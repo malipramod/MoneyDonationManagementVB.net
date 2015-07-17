@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsSpecialInviteMemembership" targetNamespace="http://tempuri.org/dsSpecialInviteMemembership.xsd" xmlns:mstns="http://tempuri.org/dsSpecialInviteMemembership.xsd" xmlns="http://tempuri.org/dsSpecialInviteMemembership.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsSpecialInviteMemembership" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dsSpecialInviteMemembership" msprop:Generator_UserDSName="dsSpecialInviteMemembership" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtSpecialInvite" msprop:Generator_UserTableName="dtSpecialInvite" msprop:Generator_RowDeletedName="dtSpecialInviteRowDeleted" msprop:Generator_TableClassName="dtSpecialInviteDataTable" msprop:Generator_RowChangedName="dtSpecialInviteRowChanged" msprop:Generator_RowClassName="dtSpecialInviteRow" msprop:Generator_RowChangingName="dtSpecialInviteRowChanging" msprop:Generator_RowEvArgName="dtSpecialInviteRowChangeEvent" msprop:Generator_RowEvHandlerName="dtSpecialInviteRowChangeEventHandler" msprop:Generator_TablePropName="dtSpecialInvite" msprop:Generator_TableVarName="tabledtSpecialInvite" msprop:Generator_RowDeletingName="dtSpecialInviteRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FirstName" msprop:Generator_UserColumnName="FirstName" msprop:Generator_ColumnPropNameInRow="FirstName" msprop:Generator_ColumnVarNameInTable="columnFirstName" msprop:Generator_ColumnPropNameInTable="FirstNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LastName" msprop:Generator_UserColumnName="LastName" msprop:Generator_ColumnPropNameInRow="LastName" msprop:Generator_ColumnVarNameInTable="columnLastName" msprop:Generator_ColumnPropNameInTable="LastNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SpecialInvite" msprop:Generator_UserColumnName="SpecialInvite" msprop:Generator_ColumnPropNameInRow="SpecialInvite" msprop:Generator_ColumnVarNameInTable="columnSpecialInvite" msprop:Generator_ColumnPropNameInTable="SpecialInviteColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_UserColumnName="Amount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInTable="AmountColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LifeTimeMember" msprop:Generator_UserColumnName="LifeTimeMember" msprop:Generator_ColumnPropNameInRow="LifeTimeMember" msprop:Generator_ColumnVarNameInTable="columnLifeTimeMember" msprop:Generator_ColumnPropNameInTable="LifeTimeMemberColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

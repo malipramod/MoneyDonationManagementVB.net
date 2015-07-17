@@ -1,0 +1,131 @@
+C:\Users\Kriestan\AppData\Local\Temporary Projects\DonationManagement\bin\Debug\DonationManagement.exe
+C:\Users\Kriestan\AppData\Local\Temporary Projects\DonationManagement\bin\Debug\DonationManagement.pdb
+C:\Users\Kriestan\AppData\Local\Temporary Projects\DonationManagement\bin\Debug\DonationManagement.xml
+C:\Users\Kriestan\AppData\Local\Temporary Projects\DonationManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kriestan\AppData\Local\Temporary Projects\DonationManagement\obj\Debug\DonationManagement.Form1.resources
+C:\Users\Kriestan\AppData\Local\Temporary Projects\DonationManagement\obj\Debug\DonationManagement.Resources.resources
+C:\Users\Kriestan\AppData\Local\Temporary Projects\DonationManagement\obj\Debug\DonationManagement.vbproj.GenerateResource.Cache
+C:\Users\Kriestan\AppData\Local\Temporary Projects\DonationManagement\obj\Debug\DonationManagement.exe
+C:\Users\Kriestan\AppData\Local\Temporary Projects\DonationManagement\obj\Debug\DonationManagement.xml
+C:\Users\Kriestan\AppData\Local\Temporary Projects\DonationManagement\obj\Debug\DonationManagement.pdb
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.exe
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.xml
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.pdb
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmDonationManagement.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.Resources.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.vbproj.GenerateResource.Cache
+D:\DonationManagement\DonationManagement\DonationManagement\bin\Debug\DonationManagement.exe
+D:\DonationManagement\DonationManagement\DonationManagement\bin\Debug\DonationManagement.pdb
+D:\DonationManagement\DonationManagement\DonationManagement\bin\Debug\DonationManagement.xml
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmChangePassword.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmDepartmentMaster.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmDonorRegistration.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmEditDonorRegistration.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmEditSubDonorRegistration.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmFchangepassword.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmForgotpassord.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmInstituteMaster.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmLoginForm.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmSubDonorRegistration.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmUserReg.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmEditDepartmentMaster.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmEditInstituteMaster.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.frmEditUserReg.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.frmDonorDetails.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmSubDonorgrid.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmCOuntryMaster.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmCityMaster.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmStateMaster.resources
+D:\DonationManagement\DonationManagement\DonationManagement\bin\Debug\af-ZA\DonationManagement.resources.dll
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmDonorRegistration.af-ZA.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\af-ZA\DonationManagement.resources.dll
+D:\DonationManagement\DonationManagement\DonationManagement\bin\Debug\DonationManagement.exe.config
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptSpecialInvited.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptPeriod.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptAmount.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptName.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.DateSearch.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptDepartment.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptDate.resources
+D:\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptLifetimeMember.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\bin\Debug\DonationManagement.exe.config
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.exe
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.xml
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.pdb
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\bin\Debug\DonationManagement.exe
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\bin\Debug\DonationManagement.pdb
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\bin\Debug\DonationManagement.xml
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\bin\Debug\af-ZA\DonationManagement.resources.dll
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.frmRPTViewer.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptPeriod.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptAmount.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptName.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptDepartment.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmCityMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmStateMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.frmDonorDetails.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmEditDepartmentMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmEditDonorRegistration.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmChangePassword.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmDepartmentMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmDonationManagement.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmDonorRegistration.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmFchangepassword.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmForgotpassord.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmCOuntryMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmInstituteMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmLoginForm.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmSubDonorRegistration.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmUserReg.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmEditInstituteMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.Resources.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmEditSubDonorRegistration.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.frmEditUserReg.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmSubDonorgrid.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptDate.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmDonorRegistration.af-ZA.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.vbproj.GenerateResource.Cache
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\af-ZA\DonationManagement.resources.dll
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.rptInstitute.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\bin\Debug\DonationManagement.exe.config
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.xml
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.pdb
+D:\New\DonationManagement\DonationManagement\DonationManagement\bin\Debug\DonationManagement.exe
+D:\New\DonationManagement\DonationManagement\DonationManagement\bin\Debug\DonationManagement.pdb
+D:\New\DonationManagement\DonationManagement\DonationManagement\bin\Debug\DonationManagement.xml
+D:\New\DonationManagement\DonationManagement\DonationManagement\bin\Debug\af-ZA\DonationManagement.resources.dll
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.frmRPTViewer.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptPeriod.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptAmount.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptName.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.rptInstitute.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptDepartment.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmCityMaster.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmStateMaster.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.frmDonorDetails.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmEditDepartmentMaster.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmEditDonorRegistration.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmChangePassword.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmDepartmentMaster.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmDonationManagement.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmDonorRegistration.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmFchangepassword.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmForgotpassord.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmCOuntryMaster.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmInstituteMaster.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmLoginForm.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmSubDonorRegistration.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmUserReg.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmEditInstituteMaster.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.Resources.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmEditSubDonorRegistration.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.frmEditUserReg.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmSubDonorgrid.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.RptDate.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.FrmDonorRegistration.af-ZA.resources
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.vbproj.GenerateResource.Cache
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\af-ZA\DonationManagement.resources.dll
+D:\New\DonationManagement\DonationManagement\DonationManagement\obj\Debug\DonationManagement.exe
